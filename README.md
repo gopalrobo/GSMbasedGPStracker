@@ -18,3 +18,7 @@ This SMS is embedded with google maps link with latitude and longitude extracted
 When the User clicks the link, it automatically redirects to Google Maps.
 
 When you send a message with a predefined query ”status” it replies with the status and location.
+
+# For more details please have a look 
+
+[![Little red ridning hood](http://i.imgur.com/rcmjESi.png)](https://youtu.be/VPTwk3R27jY)
